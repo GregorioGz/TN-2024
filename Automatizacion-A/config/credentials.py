@@ -1,0 +1,12 @@
+
+login_url = "https://pruebasautomation.mitiendanube.com/productos/guante-rawglins-11-5/"
+email = "Pruebas@gmail.com"
+codigo_postal = "1193"
+DNI = "95876678"
+nombre = "Pruebas"
+apellido = "Chapter"
+calle = "MOLDES"
+numero = "1212"
+departamento = "C"
+barrio = "BELGRANO"
+ciudad = "CABA"
